@@ -45,6 +45,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0040-combination-sum-ii) |
 | [0921-spiral-matrix-iii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Matrix
@@ -92,4 +93,8 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
