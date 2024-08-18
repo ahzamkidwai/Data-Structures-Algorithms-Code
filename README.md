@@ -89,6 +89,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -118,5 +119,14 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0264-ugly-number-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2067-maximum-number-of-points-with-cost) |
+## Hash Table
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0264-ugly-number-ii) |
+## Math
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
