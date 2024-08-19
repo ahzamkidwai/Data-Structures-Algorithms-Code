@@ -120,6 +120,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Hash Table
 |  |
@@ -129,4 +130,5 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
