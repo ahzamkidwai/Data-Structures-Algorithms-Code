@@ -147,4 +147,8 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0664-strange-printer](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0664-strange-printer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
