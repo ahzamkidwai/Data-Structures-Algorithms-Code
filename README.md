@@ -133,6 +133,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0264-ugly-number-ii) |
+| [0564-find-the-closest-palindrome](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
 ## Prefix Sum
@@ -146,6 +147,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## String
 |  |
 | ------- |
+| [0564-find-the-closest-palindrome](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0664-strange-printer) |
 ## Bit Manipulation
 |  |
