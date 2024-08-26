@@ -65,6 +65,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Depth-First Search
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
@@ -77,6 +78,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Tree
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -153,4 +155,8 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0476-number-complement) |
+## Stack
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
