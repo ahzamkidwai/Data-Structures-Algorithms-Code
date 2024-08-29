@@ -69,6 +69,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
@@ -137,6 +138,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0264-ugly-number-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +170,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
@@ -176,5 +179,6 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
