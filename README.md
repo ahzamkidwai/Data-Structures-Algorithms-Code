@@ -65,6 +65,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0921-spiral-matrix-iii) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | ------- |
 | [0564-find-the-closest-palindrome](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0664-strange-printer) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Bit Manipulation
 |  |
 | ------- |
