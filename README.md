@@ -172,6 +172,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0476-number-complement) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Stack
 |  |
 | ------- |
