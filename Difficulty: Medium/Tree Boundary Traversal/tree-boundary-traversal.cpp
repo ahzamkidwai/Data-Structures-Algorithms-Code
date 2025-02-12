@@ -88,36 +88,32 @@ Node* buildTree(string str) {
 
 
 // } Driver Code Ends
-
-
-
 class Solution {
   public:
     vector<int> ans;
-    void leftInsert(Node* root){
-        if(root->left!=NULL || root->right!=NULL) ans.push_back(root->data);
-        if(root->left!=NULL) leftInsert(root->left);
-        else if(root->right!=NULL) leftInsert(root->right);
-        else return;
+    void leftTreeTraversal(Node *root){
+        if(root->left != NULL || root->right != NULL) ans.push_back(root->data);
+        if(root->left) leftTreeTraversal(root->left);
+        else if(root->right) leftTreeTraversal(root->right);
     }
-    void bottomInsert(Node* root){
-        if(root->left==NULL && root->right==NULL)   ans.push_back(root->data);
-        if(root->left) bottomInsert(root->left);
-        if(root->right) bottomInsert(root->right);
-    }
-    void rightInsert(Node* root){
-        if(root->right!=NULL) rightInsert(root->right);
-        else if(root->left!=NULL) rightInsert(root->left);
-        else return;
+    void rightTreeTraversal(Node *root){
+        if(!root->left && !root->right) return;
+        if(root->right) rightTreeTraversal(root->right);
+        else if(root->left) rightTreeTraversal(root->left);
         ans.push_back(root->data);
+    }
+    void bottomTreeTraversal(Node *root){
+        if(root == NULL) return;
+        if(!root->left && !root->right) ans.push_back(root->data);
+        bottomTreeTraversal(root->left);
+        bottomTreeTraversal(root->right);
     }
     vector<int> boundaryTraversal(Node *root) {
-        if(root==NULL) return ans;
         ans.push_back(root->data);
-        if(root->left==NULL && root->right==NULL) return ans;
-        if(root->left!=NULL)    leftInsert(root->left);
-        bottomInsert(root);
-        if(root->right!=NULL)rightInsert(root->right);
+        if(!root->left && !root->right) return ans;
+        if(root->left != NULL) leftTreeTraversal(root->left);
+        bottomTreeTraversal(root);
+        if(root->right != NULL) rightTreeTraversal(root->right);
         return ans;
     }
 };
