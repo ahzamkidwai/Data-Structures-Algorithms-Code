@@ -46,6 +46,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0040-combination-sum-ii) |
+| [0498-diagonal-traverse](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -61,6 +62,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0498-diagonal-traverse) |
 | [0921-spiral-matrix-iii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2035-count-sub-islands) |
@@ -68,6 +70,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0498-diagonal-traverse) |
 | [0921-spiral-matrix-iii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0921-spiral-matrix-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2411-spiral-matrix-iv](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2411-spiral-matrix-iv) |
