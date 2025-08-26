@@ -59,6 +59,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [2035-count-sub-islands](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2411-spiral-matrix-iv](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2411-spiral-matrix-iv) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Matrix
 |  |
 | ------- |
