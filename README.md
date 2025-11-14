@@ -59,6 +59,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [2035-count-sub-islands](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2411-spiral-matrix-iv](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2411-spiral-matrix-iv) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Matrix
 |  |
@@ -165,6 +166,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0564-find-the-closest-palindrome](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -218,4 +220,8 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0920-uncommon-words-from-two-sentences](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+## Number Theory
+|  |
+| ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
