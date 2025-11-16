@@ -168,6 +168,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0564-find-the-closest-palindrome](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Prefix Sum
 |  |
@@ -185,6 +186,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0564-find-the-closest-palindrome](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
