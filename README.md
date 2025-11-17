@@ -54,6 +54,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0921-spiral-matrix-iii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0921-spiral-matrix-iii) |
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1325-path-with-maximum-probability) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2035-count-sub-islands](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2035-count-sub-islands) |
