@@ -49,6 +49,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0498-diagonal-traverse](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0624-maximum-distance-in-arrays) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0921-spiral-matrix-iii) |
