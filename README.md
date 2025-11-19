@@ -60,6 +60,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2035-count-sub-islands](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2411-spiral-matrix-iv](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2411-spiral-matrix-iv) |
 | [2625-increment-submatrices-by-one](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -79,6 +80,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0498-diagonal-traverse](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0498-diagonal-traverse) |
 | [0921-spiral-matrix-iii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0921-spiral-matrix-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2411-spiral-matrix-iv](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2411-spiral-matrix-iv) |
 ## Depth-First Search
 |  |
@@ -141,6 +143,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | ------- |
 | [0539-minimum-time-difference](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Greedy
 |  |
 | ------- |
@@ -162,6 +165,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0920-uncommon-words-from-two-sentences](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
 | ------- |
