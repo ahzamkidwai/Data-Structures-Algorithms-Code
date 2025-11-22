@@ -65,6 +65,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [2411-spiral-matrix-iv](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2411-spiral-matrix-iv) |
 | [2625-increment-submatrices-by-one](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Matrix
 |  |
@@ -180,6 +181,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Prefix Sum
 |  |
 | ------- |
