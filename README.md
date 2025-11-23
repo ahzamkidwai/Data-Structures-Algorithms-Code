@@ -56,6 +56,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0890-lemonade-change](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0921-spiral-matrix-iii) |
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1325-path-with-maximum-probability](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1325-path-with-maximum-probability) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -147,6 +148,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0539-minimum-time-difference](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0759-set-intersection-size-at-least-two) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Greedy
 |  |
@@ -154,6 +156,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0624-maximum-distance-in-arrays](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0759-set-intersection-size-at-least-two) |
 | [0890-lemonade-change](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0890-lemonade-change) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
@@ -162,6 +165,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0650-2-keys-keyboard](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Hash Table
 |  |
