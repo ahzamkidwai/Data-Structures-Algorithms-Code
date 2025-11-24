@@ -55,6 +55,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0759-set-intersection-size-at-least-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0759-set-intersection-size-at-least-two) |
 | [0890-lemonade-change](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0921-spiral-matrix-iii) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1325-path-with-maximum-probability](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1325-path-with-maximum-probability) |
@@ -215,6 +216,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0476-number-complement) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2323-minimum-bit-flips-to-convert-number) |
