@@ -174,6 +174,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0264-ugly-number-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0264-ugly-number-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -187,6 +188,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0539-minimum-time-difference](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0650-2-keys-keyboard) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
