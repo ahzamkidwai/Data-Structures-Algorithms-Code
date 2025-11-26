@@ -66,6 +66,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [2067-maximum-number-of-points-with-cost](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2411-spiral-matrix-iv](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2411-spiral-matrix-iv) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -78,6 +79,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2035-count-sub-islands) |
 | [2411-spiral-matrix-iv](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2411-spiral-matrix-iv) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2625-increment-submatrices-by-one) |
 ## Simulation
 |  |
@@ -168,6 +170,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
