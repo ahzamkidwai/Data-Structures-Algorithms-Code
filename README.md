@@ -65,6 +65,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2035-count-sub-islands](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2411-spiral-matrix-iv](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2411-spiral-matrix-iv) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -124,6 +125,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -154,6 +156,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Greedy
 |  |
@@ -162,6 +165,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0759-set-intersection-size-at-least-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0759-set-intersection-size-at-least-two) |
 | [0890-lemonade-change](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0890-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
