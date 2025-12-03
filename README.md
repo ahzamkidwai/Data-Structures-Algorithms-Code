@@ -75,6 +75,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -190,6 +191,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +209,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -286,4 +289,5 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3625-count-number-of-trapezoids-ii) |
 <!---LeetCode Topics End-->
