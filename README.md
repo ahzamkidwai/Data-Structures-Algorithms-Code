@@ -49,6 +49,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0040-combination-sum-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0498-diagonal-traverse](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0539-minimum-time-difference) |
@@ -134,6 +135,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0033-search-in-rotated-sorted-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0852-peak-index-in-a-mountain-array) |
