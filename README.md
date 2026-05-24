@@ -59,6 +59,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0759-set-intersection-size-at-least-two) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0921-spiral-matrix-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -142,6 +143,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1539-kth-missing-positive-number) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Heap (Priority Queue)
