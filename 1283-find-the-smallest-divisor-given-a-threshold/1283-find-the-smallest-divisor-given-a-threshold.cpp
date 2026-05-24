@@ -1,14 +1,5 @@
 class Solution {
 public:
-    pair<int, int> findMaxAndMin(vector<int> &nums) {
-        int n = nums.size();
-        int minEle = INT_MAX, maxEle = INT_MIN;
-        for (auto itr : nums) {
-            if (itr > maxEle) maxEle = itr;
-            if (itr < minEle) minEle = itr;
-        }
-        return {minEle, maxEle};
-    }
     bool checkDivisibility(vector<int> &nums, int divisor, int threshold) {
         long long int sum = 0;
         for (auto it : nums) {
@@ -20,10 +11,7 @@ public:
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
         int n = nums.size();
-        pair<int, int> p = findMaxAndMin(nums);
-        int minEle, maxEle;
-        minEle = p.first;
-        maxEle = p.second;
+        int maxEle = *max_element(nums.begin(), nums.end());
         int low = 1, high = maxEle;
         int ans = 0;
         while (low <= high) {
