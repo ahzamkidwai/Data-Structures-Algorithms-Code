@@ -62,6 +62,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0875-koko-eating-bananas](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0921-spiral-matrix-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -146,6 +147,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0789-kth-largest-element-in-a-stream](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1539-kth-missing-positive-number) |
