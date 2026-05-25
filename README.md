@@ -51,6 +51,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0040-combination-sum-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0040-combination-sum-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0410-split-array-largest-sum](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0498-diagonal-traverse](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0539-minimum-time-difference) |
@@ -143,6 +144,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0035-search-insert-position](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0410-split-array-largest-sum](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0410-split-array-largest-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -187,6 +189,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0759-set-intersection-size-at-least-two) |
 | [0890-lemonade-change](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0890-lemonade-change) |
@@ -197,6 +200,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0264-ugly-number-ii) |
+| [0410-split-array-largest-sum](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
@@ -238,6 +242,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0410-split-array-largest-sum) |
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
