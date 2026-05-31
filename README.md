@@ -49,6 +49,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0410-split-array-largest-sum) |
@@ -176,10 +177,12 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0075-sort-colors) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0075-sort-colors) |
 | [0539-minimum-time-difference](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0759-set-intersection-size-at-least-two) |
