@@ -81,6 +81,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [2067-maximum-number-of-points-with-cost](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2126-destroying-asteroids](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2411-spiral-matrix-iv](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2411-spiral-matrix-iv) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -192,6 +193,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2126-destroying-asteroids](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Greedy
 |  |
@@ -203,6 +205,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2126-destroying-asteroids](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
