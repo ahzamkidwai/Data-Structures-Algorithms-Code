@@ -56,6 +56,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0498-diagonal-traverse](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -188,6 +189,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | ------- |
 | [0075-sort-colors](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0075-sort-colors) |
 | [0539-minimum-time-difference](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0561-array-partition) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -199,6 +201,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0759-set-intersection-size-at-least-two) |
 | [0890-lemonade-change](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0890-lemonade-change) |
@@ -333,4 +336,8 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3625-count-number-of-trapezoids-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
