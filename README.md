@@ -95,6 +95,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -160,6 +161,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1539-kth-missing-positive-number) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -184,6 +186,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | ------- |
 | [0075-sort-colors](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0075-sort-colors) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +200,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [2141-maximum-running-time-of-n-computers](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
@@ -210,6 +214,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [2141-maximum-running-time-of-n-computers](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |
