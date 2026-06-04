@@ -231,6 +231,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,6 +264,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -341,6 +343,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
 |  |
 | ------- |
