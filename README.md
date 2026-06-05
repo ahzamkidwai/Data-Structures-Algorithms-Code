@@ -51,6 +51,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0040-combination-sum-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0075-sort-colors) |
+| [0134-gas-station](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0410-split-array-largest-sum) |
@@ -208,6 +209,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0624-maximum-distance-in-arrays) |
