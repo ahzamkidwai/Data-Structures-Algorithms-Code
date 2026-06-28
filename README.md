@@ -80,6 +80,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1590-make-sum-divisible-by-p](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1590-make-sum-divisible-by-p) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2035-count-sub-islands](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2126-destroying-asteroids](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2126-destroying-asteroids) |
@@ -201,6 +202,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -216,6 +218,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0759-set-intersection-size-at-least-two](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0759-set-intersection-size-at-least-two) |
 | [0890-lemonade-change](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0890-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
