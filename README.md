@@ -244,6 +244,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0920-uncommon-words-from-two-sentences](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1590-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -292,6 +293,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0564-find-the-closest-palindrome](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -343,6 +345,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Enumeration
 |  |
