@@ -234,6 +234,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0664-strange-printer](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2063-vowels-of-all-substrings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2063-vowels-of-all-substrings) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -264,6 +265,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1015-smallest-integer-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1240-stone-game-ii) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2063-vowels-of-all-substrings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2063-vowels-of-all-substrings) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -297,6 +299,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1636-number-of-substrings-with-only-1s](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2063-vowels-of-all-substrings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2063-vowels-of-all-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -365,4 +368,8 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0053-maximum-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
