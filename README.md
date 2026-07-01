@@ -92,6 +92,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -110,6 +111,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [2411-spiral-matrix-iv](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2411-spiral-matrix-iv) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2625-increment-submatrices-by-one) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +136,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1484-linked-list-in-binary-tree](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2035-count-sub-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -166,6 +169,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1539-kth-missing-positive-number) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
@@ -173,6 +177,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0264-ugly-number-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1325-path-with-maximum-probability) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -372,4 +377,8 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2063-vowels-of-all-substrings) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
