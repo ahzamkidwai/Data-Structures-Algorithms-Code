@@ -96,6 +96,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3623-count-number-of-trapezoids-i) |
@@ -112,6 +113,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2625-increment-submatrices-by-one) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -137,6 +139,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2035-count-sub-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -178,6 +181,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [0789-kth-largest-element-in-a-stream](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1325-path-with-maximum-probability) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -330,6 +334,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1325-path-with-maximum-probability) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -381,4 +386,8 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
