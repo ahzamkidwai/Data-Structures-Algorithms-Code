@@ -132,12 +132,14 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | [1484-linked-list-in-binary-tree](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2035-count-sub-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2035-count-sub-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Strongly Connected Component
@@ -385,9 +387,11 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
