@@ -268,6 +268,7 @@ If you have any questions, feel free to reach out to me at ahzamnaseem.kidwai@gm
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0264-ugly-number-ii](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0264-ugly-number-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0539-minimum-time-difference](https://github.com/ahzamkidwai/Data-Structures-Algorithms-Code/tree/master/0539-minimum-time-difference) |
